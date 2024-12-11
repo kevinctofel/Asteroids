@@ -14,3 +14,8 @@ Most of the heavy lifting is done by using the [pygame library](https://www.pyga
 - Collision detection enabled; game ends when the player ship touches and asteroid
 - A stream of bullet shots appears from the player.
 - Added a delay of 0.3 seconds between shots to slow rate of potential bullets
+
+### Project completed on December 6, 2024
+
+- May add a hyperspace button to randomly teleport to another area of the screen, like the original game.
+  
